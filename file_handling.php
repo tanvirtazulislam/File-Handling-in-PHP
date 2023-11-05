@@ -1,7 +1,5 @@
 <?php
 
-// Task 1:
-
 // Write a PHP code to read the content of a text file and display it on the webpage.
 
 // Reading 'demo.txt'
@@ -28,9 +26,6 @@ foreach($lines as $line) {
     echo $line."<br>";
 }
 
-
-
-// Task 2:
 
 // Write a PHP code to append new data to an existing text file.
 
